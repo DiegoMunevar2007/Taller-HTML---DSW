@@ -1,0 +1,55 @@
+.img-perro{
+    display: inline;
+    padding: auto;
+    margin: 0 auto;
+    width: 20em;
+}
+.desc{
+    font-weight: 450;
+}
+.img-logo{
+    width: 5em;
+    margin-left: 1rem;
+}
+.raza{
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgb(5, 20, 24);
+}
+h3{
+    font-size:large;
+}
+dt{
+    color: rgb(5, 20, 24);
+    font-weight: bold;
+}
+img{
+    border-radius: 20px;
+    width: 25em;
+}
+.card-title{
+    text-align: center;
+    font-size: x-large;
+    margin-top:15px ;
+    margin-bottom: 15px;
+}
+.card{
+    margin: 10px;
+    border-radius: 5%;
+}
+.footer{
+    text-align: center;
+    color:rgba(26, 28, 29,0.7);
+}
+.header{
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(231, 250, 255);
+}
+.campo-texto{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px 0;
+    border: none;
+    background-color: #f1f1f1;
+}
